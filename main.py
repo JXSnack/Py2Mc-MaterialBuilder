@@ -23,7 +23,7 @@ return_value = f""
 legacy_removed = 0
 empty_strings = 0
 success = 0
-version = "1.0 for MC 1.19.3 (paper-api-1.19.3-R0.1)"
+version = "1.1 for MC 1.20.1 (paper-api-1.20.1-R0.1)"
 return_value += f"# Generated with Py2McMaterialBuilder-{version} at {datetime.datetime.now()}\n"
 
 # for each line

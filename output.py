@@ -1,4 +1,4 @@
-# Generated with Py2McMaterialBuilder-1.0 for MC 1.19.3 (paper-api-1.19.3-R0.1) at 2023-06-12 10:59:00.299991
+# Generated with Py2McMaterialBuilder-1.0 for MC 1.19.3 (paper-api-1.19.3-R0.1) at 2023-08-07 11:47:48.891495
 
 class ACACIA_BOAT(MaterialAPI):
 	def __init__(self):
@@ -279,6 +279,15 @@ class ANDESITE_WALL(MaterialAPI):
 		return Py2J(code="Material.ANDESITE_WALL", imports=["org.bukkit.Material"])
 
 
+class ANGLER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.ANGLER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class ANVIL(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -297,6 +306,15 @@ class APPLE(MaterialAPI):
 		return Py2J(code="Material.APPLE", imports=["org.bukkit.Material"])
 
 
+class ARCHER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.ARCHER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class ARMOR_STAND(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -304,6 +322,15 @@ class ARMOR_STAND(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.ARMOR_STAND", imports=["org.bukkit.Material"])
+
+
+class ARMS_UP_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.ARMS_UP_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class ARROW(MaterialAPI):
@@ -1071,6 +1098,15 @@ class BLACKSTONE_WALL(MaterialAPI):
 		return Py2J(code="Material.BLACKSTONE_WALL", imports=["org.bukkit.Material"])
 
 
+class BLADE_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.BLADE_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class BLAST_FURNACE(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -1368,6 +1404,15 @@ class BREAD(MaterialAPI):
 		return Py2J(code="Material.BREAD", imports=["org.bukkit.Material"])
 
 
+class BREWER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.BREWER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class BREWING_STAND(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -1575,6 +1620,15 @@ class BROWN_WOOL(MaterialAPI):
 		return Py2J(code="Material.BROWN_WOOL", imports=["org.bukkit.Material"])
 
 
+class BRUSH(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.BRUSH", imports=["org.bukkit.Material"])
+
+
 class BUBBLE_COLUMN(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -1647,6 +1701,15 @@ class BUNDLE(MaterialAPI):
 		return Py2J(code="Material.BUNDLE", imports=["org.bukkit.Material"])
 
 
+class BURN_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.BURN_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class CACTUS(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -1672,6 +1735,15 @@ class CALCITE(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.CALCITE", imports=["org.bukkit.Material"])
+
+
+class CALIBRATED_SCULK_SENSOR(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CALIBRATED_SCULK_SENSOR", imports=["org.bukkit.Material"])
 
 
 class CAMEL_SPAWN_EGG(MaterialAPI):
@@ -1870,6 +1942,177 @@ class CHARCOAL(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.CHARCOAL", imports=["org.bukkit.Material"])
+
+
+class CHERRY_BOAT(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_BOAT", imports=["org.bukkit.Material"])
+
+
+class CHERRY_BUTTON(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_BUTTON", imports=["org.bukkit.Material"])
+
+
+class CHERRY_CHEST_BOAT(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_CHEST_BOAT", imports=["org.bukkit.Material"])
+
+
+class CHERRY_DOOR(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_DOOR", imports=["org.bukkit.Material"])
+
+
+class CHERRY_FENCE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_FENCE", imports=["org.bukkit.Material"])
+
+
+class CHERRY_FENCE_GATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_FENCE_GATE", imports=["org.bukkit.Material"])
+
+
+class CHERRY_HANGING_SIGN(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_HANGING_SIGN", imports=["org.bukkit.Material"])
+
+
+class CHERRY_LEAVES(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_LEAVES", imports=["org.bukkit.Material"])
+
+
+class CHERRY_LOG(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_LOG", imports=["org.bukkit.Material"])
+
+
+class CHERRY_PLANKS(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_PLANKS", imports=["org.bukkit.Material"])
+
+
+class CHERRY_PRESSURE_PLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_PRESSURE_PLATE", imports=["org.bukkit.Material"])
+
+
+class CHERRY_SAPLING(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_SAPLING", imports=["org.bukkit.Material"])
+
+
+class CHERRY_SIGN(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_SIGN", imports=["org.bukkit.Material"])
+
+
+class CHERRY_SLAB(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_SLAB", imports=["org.bukkit.Material"])
+
+
+class CHERRY_STAIRS(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_STAIRS", imports=["org.bukkit.Material"])
+
+
+class CHERRY_TRAPDOOR(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_TRAPDOOR", imports=["org.bukkit.Material"])
+
+
+class CHERRY_WALL_HANGING_SIGN(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_WALL_HANGING_SIGN", imports=["org.bukkit.Material"])
+
+
+class CHERRY_WALL_SIGN(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_WALL_SIGN", imports=["org.bukkit.Material"])
+
+
+class CHERRY_WOOD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.CHERRY_WOOD", imports=["org.bukkit.Material"])
 
 
 class CHEST(MaterialAPI):
@@ -2077,6 +2320,15 @@ class COARSE_DIRT(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.COARSE_DIRT", imports=["org.bukkit.Material"])
+
+
+class COAST_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.COAST_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class COBBLED_DEEPSLATE(MaterialAPI):
@@ -2862,6 +3114,15 @@ class DANDELION(MaterialAPI):
 		return Py2J(code="Material.DANDELION", imports=["org.bukkit.Material"])
 
 
+class DANGER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.DANGER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class DARK_OAK_BOAT(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -3265,6 +3526,15 @@ class DEBUG_STICK(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.DEBUG_STICK", imports=["org.bukkit.Material"])
+
+
+class DECORATED_POT(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.DECORATED_POT", imports=["org.bukkit.Material"])
 
 
 class DEEPSLATE(MaterialAPI):
@@ -3717,6 +3987,15 @@ class DROWNED_SPAWN_EGG(MaterialAPI):
 		return Py2J(code="Material.DROWNED_SPAWN_EGG", imports=["org.bukkit.Material"])
 
 
+class DUNE_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.DUNE_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class ECHO_SHARD(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -3969,6 +4248,15 @@ class EXPERIENCE_BOTTLE(MaterialAPI):
 		return Py2J(code="Material.EXPERIENCE_BOTTLE", imports=["org.bukkit.Material"])
 
 
+class EXPLORER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.EXPLORER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class EXPOSED_COPPER(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -4003,6 +4291,15 @@ class EXPOSED_CUT_COPPER_STAIRS(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.EXPOSED_CUT_COPPER_STAIRS", imports=["org.bukkit.Material"])
+
+
+class EYE_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.EYE_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class FARMLAND(MaterialAPI):
@@ -4201,6 +4498,15 @@ class FOX_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.FOX_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class FRIEND_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.FRIEND_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class FROG_SPAWN_EGG(MaterialAPI):
@@ -4932,6 +5238,24 @@ class HEART_OF_THE_SEA(MaterialAPI):
 		return Py2J(code="Material.HEART_OF_THE_SEA", imports=["org.bukkit.Material"])
 
 
+class HEART_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.HEART_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
+class HEARTBREAK_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.HEARTBREAK_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class HEAVY_WEIGHTED_PRESSURE_PLATE(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -5047,6 +5371,24 @@ class HORSE_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.HORSE_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class HOST_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.HOST_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
+class HOWL_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.HOWL_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class HUSK_SPAWN_EGG(MaterialAPI):
@@ -6615,6 +6957,15 @@ class MINECART(MaterialAPI):
 		return Py2J(code="Material.MINECART", imports=["org.bukkit.Material"])
 
 
+class MINER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.MINER_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class MOJANG_BANNER_PATTERN(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -6721,6 +7072,15 @@ class MOSSY_STONE_BRICKS(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.MOSSY_STONE_BRICKS", imports=["org.bukkit.Material"])
+
+
+class MOURNER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.MOURNER_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class MOVING_PISTON(MaterialAPI):
@@ -6910,6 +7270,15 @@ class MUSIC_DISC_PIGSTEP(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.MUSIC_DISC_PIGSTEP", imports=["org.bukkit.Material"])
+
+
+class MUSIC_DISC_RELIC(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.MUSIC_DISC_RELIC", imports=["org.bukkit.Material"])
 
 
 class MUSIC_DISC_STAL(MaterialAPI):
@@ -7207,6 +7576,15 @@ class NETHERITE_SWORD(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.NETHERITE_SWORD", imports=["org.bukkit.Material"])
+
+
+class NETHERITE_UPGRADE_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.NETHERITE_UPGRADE_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class NETHERRACK(MaterialAPI):
@@ -7866,6 +8244,15 @@ class PINK_GLAZED_TERRACOTTA(MaterialAPI):
 		return Py2J(code="Material.PINK_GLAZED_TERRACOTTA", imports=["org.bukkit.Material"])
 
 
+class PINK_PETALS(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PINK_PETALS", imports=["org.bukkit.Material"])
+
+
 class PINK_SHULKER_BOX(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -7947,6 +8334,33 @@ class PISTON_HEAD(MaterialAPI):
 		return Py2J(code="Material.PISTON_HEAD", imports=["org.bukkit.Material"])
 
 
+class PITCHER_CROP(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PITCHER_CROP", imports=["org.bukkit.Material"])
+
+
+class PITCHER_PLANT(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PITCHER_PLANT", imports=["org.bukkit.Material"])
+
+
+class PITCHER_POD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PITCHER_POD", imports=["org.bukkit.Material"])
+
+
 class PLAYER_HEAD(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -7963,6 +8377,15 @@ class PLAYER_WALL_HEAD(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.PLAYER_WALL_HEAD", imports=["org.bukkit.Material"])
+
+
+class PLENTY_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PLENTY_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class PODZOL(MaterialAPI):
@@ -8352,6 +8775,15 @@ class POTTED_CACTUS(MaterialAPI):
 		return Py2J(code="Material.POTTED_CACTUS", imports=["org.bukkit.Material"])
 
 
+class POTTED_CHERRY_SAPLING(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.POTTED_CHERRY_SAPLING", imports=["org.bukkit.Material"])
+
+
 class POTTED_CORNFLOWER(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -8523,6 +8955,15 @@ class POTTED_SPRUCE_SAPLING(MaterialAPI):
 		return Py2J(code="Material.POTTED_SPRUCE_SAPLING", imports=["org.bukkit.Material"])
 
 
+class POTTED_TORCHFLOWER(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.POTTED_TORCHFLOWER", imports=["org.bukkit.Material"])
+
+
 class POTTED_WARPED_FUNGUS(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -8674,6 +9115,15 @@ class PRISMARINE_WALL(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.PRISMARINE_WALL", imports=["org.bukkit.Material"])
+
+
+class PRIZE_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.PRIZE_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class PUFFERFISH(MaterialAPI):
@@ -9016,6 +9466,15 @@ class RAIL(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.RAIL", imports=["org.bukkit.Material"])
+
+
+class RAISER_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.RAISER_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class RAVAGER_SPAWN_EGG(MaterialAPI):
@@ -9432,6 +9891,15 @@ class RESPAWN_ANCHOR(MaterialAPI):
 		return Py2J(code="Material.RESPAWN_ANCHOR", imports=["org.bukkit.Material"])
 
 
+class RIB_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.RIB_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class ROOTED_DIRT(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -9630,6 +10098,33 @@ class SEAGRASS(MaterialAPI):
 		return Py2J(code="Material.SEAGRASS", imports=["org.bukkit.Material"])
 
 
+class SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
+class SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
+class SHEAF_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SHEAF_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
 class SHEARS(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -9646,6 +10141,15 @@ class SHEEP_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.SHEEP_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class SHELTER_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SHELTER_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class SHIELD(MaterialAPI):
@@ -9691,6 +10195,15 @@ class SHULKER_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.SHULKER_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class SILVERFISH_SPAWN_EGG(MaterialAPI):
@@ -9745,6 +10258,15 @@ class SKULL_BANNER_PATTERN(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.SKULL_BANNER_PATTERN", imports=["org.bukkit.Material"])
+
+
+class SKULL_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SKULL_POTTERY_SHERD", imports=["org.bukkit.Material"])
 
 
 class SLIME_BALL(MaterialAPI):
@@ -9918,6 +10440,42 @@ class SMOOTH_STONE_SLAB(MaterialAPI):
 		return Py2J(code="Material.SMOOTH_STONE_SLAB", imports=["org.bukkit.Material"])
 
 
+class SNIFFER_EGG(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SNIFFER_EGG", imports=["org.bukkit.Material"])
+
+
+class SNIFFER_SPAWN_EGG(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SNIFFER_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class SNORT_POTTERY_SHERD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SNORT_POTTERY_SHERD", imports=["org.bukkit.Material"])
+
+
+class SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class SNOW(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -10051,6 +10609,15 @@ class SPIDER_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.SPIDER_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class SPLASH_POTION(MaterialAPI):
@@ -10494,6 +11061,24 @@ class STRIPPED_BIRCH_WOOD(MaterialAPI):
 		return Py2J(code="Material.STRIPPED_BIRCH_WOOD", imports=["org.bukkit.Material"])
 
 
+class STRIPPED_CHERRY_LOG(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.STRIPPED_CHERRY_LOG", imports=["org.bukkit.Material"])
+
+
+class STRIPPED_CHERRY_WOOD(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.STRIPPED_CHERRY_WOOD", imports=["org.bukkit.Material"])
+
+
 class STRIPPED_CRIMSON_HYPHAE(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -10665,6 +11250,24 @@ class SUNFLOWER(MaterialAPI):
 		return Py2J(code="Material.SUNFLOWER", imports=["org.bukkit.Material"])
 
 
+class SUSPICIOUS_GRAVEL(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SUSPICIOUS_GRAVEL", imports=["org.bukkit.Material"])
+
+
+class SUSPICIOUS_SAND(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.SUSPICIOUS_SAND", imports=["org.bukkit.Material"])
+
+
 class SUSPICIOUS_STEW(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -10746,6 +11349,15 @@ class TERRACOTTA(MaterialAPI):
 		return Py2J(code="Material.TERRACOTTA", imports=["org.bukkit.Material"])
 
 
+class TIDE_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.TIDE_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class TINTED_GLASS(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -10789,6 +11401,33 @@ class TORCH(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.TORCH", imports=["org.bukkit.Material"])
+
+
+class TORCHFLOWER(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.TORCHFLOWER", imports=["org.bukkit.Material"])
+
+
+class TORCHFLOWER_CROP(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.TORCHFLOWER_CROP", imports=["org.bukkit.Material"])
+
+
+class TORCHFLOWER_SEEDS(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.TORCHFLOWER_SEEDS", imports=["org.bukkit.Material"])
 
 
 class TOTEM_OF_UNDYING(MaterialAPI):
@@ -10971,6 +11610,15 @@ class VERDANT_FROGLIGHT(MaterialAPI):
 		return Py2J(code="Material.VERDANT_FROGLIGHT", imports=["org.bukkit.Material"])
 
 
+class VEX_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.VEX_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class VEX_SPAWN_EGG(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -11032,6 +11680,15 @@ class WANDERING_TRADER_SPAWN_EGG(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.WANDERING_TRADER_SPAWN_EGG", imports=["org.bukkit.Material"])
+
+
+class WARD_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.WARD_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class WARDEN_SPAWN_EGG(MaterialAPI):
@@ -11394,6 +12051,15 @@ class WAXED_WEATHERED_CUT_COPPER_STAIRS(MaterialAPI):
 		return Py2J(code="Material.WAXED_WEATHERED_CUT_COPPER_STAIRS", imports=["org.bukkit.Material"])
 
 
+class WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
+
+
 class WEATHERED_COPPER(MaterialAPI):
 	def __init__(self):
 		super().__init__()
@@ -11617,6 +12283,15 @@ class WHITE_WOOL(MaterialAPI):
 
 	def get(self):
 		return Py2J(code="Material.WHITE_WOOL", imports=["org.bukkit.Material"])
+
+
+class WILD_ARMOR_TRIM_SMITHING_TEMPLATE(MaterialAPI):
+	def __init__(self):
+		super().__init__()
+		self.get()
+
+	def get(self):
+		return Py2J(code="Material.WILD_ARMOR_TRIM_SMITHING_TEMPLATE", imports=["org.bukkit.Material"])
 
 
 class WITCH_SPAWN_EGG(MaterialAPI):

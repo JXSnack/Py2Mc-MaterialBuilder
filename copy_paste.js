@@ -1,5 +1,5 @@
 // copy + paste this into the console with the javadocs
-// then get all the meterials with they "replace with nothing" and paste them into materials.txt
+// then get all the materials with the "replace with nothing" and paste them into materials.txt
 // then replace all "replace with nothing" with nothing
 // run main.py
 // see generated code in output.py
